@@ -59,7 +59,7 @@ Provided insights for inventory and sales planning
 
 🚀 How to Run
 1️⃣ Clone the repository
-git clone https://github.com/your-username/unified-supermart-analysis.git
+git clone https://github.com/PunithReddyB/Supermart-Grocery-Sales-Retail-Analytics-Dataset.git
 cd unified-supermart-analysis
 
 2️⃣ Install dependencies
