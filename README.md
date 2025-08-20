@@ -4,68 +4,96 @@ A data analytics project analyzing Supermart sales to uncover insights on produc
 📌 Project Overview
 
 This project analyzes Supermart sales data to uncover business insights such as product performance, customer preferences, and sales trends. It demonstrates skills in data cleaning, visualization, and exploratory data analysis (EDA).
-The work was completed as part of my internship with Unified, where I contributed to real-world business analytics projects.
+
+👉 This work was completed as part of my internship with Unified.
 
 📂 Dataset
 
-The dataset contains details of supermarket transactions, including:
-->Order ID – Unique identifier for each transaction
-->Date – Order date
-->Customer & Segment – Buyer information
-->Region & City – Geographical data
-->Category & Sub-Category – Product classification
-->Sales, Quantity, Discount, Profit – Key performance metrics
+The dataset includes:
+
+Order ID – Unique identifier for each transaction
+
+Date – Order date
+
+Customer & Segment – Buyer information
+
+Region & City – Geographical data
+
+Category & Sub-Category – Product classification
+
+Sales, Quantity, Discount, Profit – Key performance metrics
 
 ⚙️ Project Workflow
 
-->Data Preprocessing
-->Handled missing values
-->Standardized data formats
-->Removed duplicates
-->Exploratory Data Analysis (EDA)
-->Sales distribution by region, category, and sub-category
-->Profitability analysis
-->Discount impact on sales & profit
-->Seasonal and monthly trends
-->Visualization
-->Used charts/graphs to present key insights
-->Highlighted top-performing and underperforming products
-->Business Insights
-->Identified profitable regions and categories
-->Recommended strategies for discount optimization
-->Provided insights for inventory and sales planning
+📌 Data Preprocessing
+
+Handled missing values
+
+Standardized data formats
+
+Removed duplicates
+
+📌 Exploratory Data Analysis (EDA)
+
+Sales distribution by region, category, and sub-category
+
+Profitability analysis
+
+Discount impact on sales & profit
+
+Seasonal and monthly trends
+
+📌 Visualization
+
+Used charts/graphs to present key insights
+
+Highlighted top-performing and underperforming products
+
+📌 Business Insights
+
+Identified profitable regions and categories
+
+Recommended strategies for discount optimization
+
+Provided insights for inventory and sales planning
 
 🚀 How to Run
-1️⃣ Clone the repository
-git clone https://github.com/PunithReddyB/Supermart-Grocery-Sales-Retail-Analytics-Dataset.git
+
+Clone the repository
+
+git clone https://github.com/your-username/unified-supermart-analysis.git
 cd unified-supermart-analysis
 
-2️⃣ Install dependencies
+
+Install dependencies
+
 pip install -r requirements.txt
 
-3️⃣ Run the notebook
+
+Run the notebook
+
 jupyter notebook Supermart.ipynb
 
 📊 Results & Insights
 
-📈 Technology category showed highest profit margins
+📈 Technology category showed the highest profit margins
 
-🏬 Furniture category struggled with discounts leading to losses
+🏬 Furniture category struggled due to discounts leading to losses
 
-🌍 Regional analysis revealed sales concentration in a few key cities
+🌍 Regional analysis revealed sales concentration in key cities
 
-💡 Strategic recommendations made for pricing, discounts, and inventory
+💡 Suggested strategies for pricing, discounts, and inventory management
 
 🛠 Tech Stack
 
 Python
 
-Pandas, NumPy (Data Processing)
+Pandas, NumPy – Data Processing
 
-Matplotlib, Seaborn (Visualization)
+Matplotlib, Seaborn – Visualization
 
 Jupyter Notebook
 
 🤝 Internship Acknowledgement
 
-This project was developed during my internship at Unified, where I worked on real-world data analytics projects and learned how to extract insights to support business decision-making.
+This project was completed as part of my internship with Unified, where I worked on real-world data analytics projects and gained experience in extracting insights to support business decision-making.
